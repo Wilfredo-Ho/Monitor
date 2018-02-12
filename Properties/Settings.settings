@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Monitor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Monitor_UserWSQN_UserWS" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://218.75.94.36:20002/UserWS.asmx</Value>
+    </Setting>
+    <Setting Name="Monitor_UserWSCD_UserWS" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://119.6.100.171:50002/UserWS.asmx</Value>
+    </Setting>
+    <Setting Name="Monitor_UserWSGX_UserWS" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://117.141.141.2:20002/UserWS.asmx</Value>
+    </Setting>
+    <Setting Name="Monitor_UserWSQY_UserWS" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://123.127.164.36:20002/UserWS.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
